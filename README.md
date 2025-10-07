@@ -132,11 +132,15 @@ If AIB is acquired or merged with another company, your information may be trans
 We retain your data for as long as you use AIB and maintain an active Shopify store.
 
 ### 5.2 App Uninstallation
+
 When you uninstall AIB:
-- **Immediate:** Access tokens are revoked, and your shop is marked inactive
-- **Within 30 days:** Personal data (session information, customer identifiers) is permanently deleted
-- **Within 90 days:** All analytics data can be deleted upon request
-- **Retained indefinitely (aggregated only):** Anonymous, aggregated statistics (no personal identifiers)
+
+* **Immediate:** All data is permanently deleted, including:
+  * Personal data (session information, email addresses, customer identifiers)
+  * Business data (products, pricing tests, analytics)
+  * Access tokens and authentication data
+* **Retained:** Nothing - complete data deletion
+* **Result:** Zero data retention after uninstallation
 
 ### 5.3 Data Deletion Requests
 You can request full data deletion at any time by emailing privacy@priceiq.com. We will process deletion requests within 30 days.
@@ -353,4 +357,5 @@ By installing or using AIB, you acknowledge that you have read, understood, and 
 ---
 
 *This Privacy Policy is provided in good faith and for informational purposes. For legal advice specific to your situation, please consult with a qualified attorney.*
+
 
